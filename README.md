@@ -69,11 +69,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Note:
+Due to time limitations on the tool I used (ezgif), I had to split my screen recording into 5 short parts. I apologize for the inconvenience. The video demonstrates that all required features of the final project were completed, just in multiple clips. Thank you for understanding!
+
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Bandicam and EZGIF.
