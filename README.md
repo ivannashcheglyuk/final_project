@@ -72,7 +72,8 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ivannashcheglyuk/final_project/blob/main/fin.p.v4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with Bandicam and EZGIF.
