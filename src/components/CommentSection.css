@@ -1,0 +1,33 @@
+/* CommentSection.css */
+textarea.form-control {
+  resize: none;
+  border-radius: 8px;
+  padding: 0.5rem;
+}
+
+.list-group-item {
+  border-bottom: 1px solid #ddd;
+  padding: 0.5rem 0;
+  background-color: #d2d786;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.list-group-item:last-child {
+  border-bottom: none;
+}
+
+.card {
+  border: 1px solid #a78585;
+  border-radius: 12px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.card-title {
+  font-weight: 600;
+  color: #101010;
+}
+
+.btn-primary {
+  border-radius: 6px;
+}

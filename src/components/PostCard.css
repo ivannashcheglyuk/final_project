@@ -1,0 +1,30 @@
+/* src/components/PostCard.css */
+
+.post-card {
+  border: 1px solid #eee;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background-color: #fffdfc;
+}
+
+.post-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.post-title-link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.post-title-link:hover {
+  color: #932c12;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  margin-top: 5px;
+}

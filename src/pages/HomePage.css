@@ -1,0 +1,73 @@
+/* HomePage.css */
+
+.home-page {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9fafb;
+  min-height: 85vh;
+  padding-bottom: 2rem;
+}
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2d3748;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.controls {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.search-input {
+  flex: 1 1 300px;
+  max-width: 400px;
+  padding: 0.6rem 1rem;
+  border: 1.5px solid #066021;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #3182ce;
+  box-shadow: 0 0 5px #63b3ed;
+}
+
+.sort-select {
+  flex: 0 0 180px;
+  padding: 0.55rem 1rem;
+  font-size: 1rem;
+  border: 1.5px solid #0f4d90;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: border-color 0.3s ease;
+}
+
+.sort-select:hover,
+.sort-select:focus {
+  border-color: #3182ce;
+  box-shadow: 0 0 5px #63b3ed;
+  outline: none;
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.no-posts {
+  text-align: center;
+  font-style: italic;
+  color: #718096;
+}
